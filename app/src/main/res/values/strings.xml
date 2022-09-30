@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coroutine-DEMO</string>
+    <string name="download_user_data">download_user_data</string>
+    <string name="click_here">click_here</string>
+</resources>
